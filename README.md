@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 老朋友，北碚战网欢迎您回来！
 
 You can use the [editor on GitHub](https://github.com/lesliewang895/battlenet.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
